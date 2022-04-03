@@ -1,3 +1,5 @@
+{% for item in site.data.menunotesitems %}
 <li class="nav-item">
-    <a class="nav-link" href="{{ site.url }}">Accueil</a>
+    <a class="nav-link" href="{{ site.url }}{{ item.link }}">{{ item.title }}</a>
 </li>
+{% endfor %}
