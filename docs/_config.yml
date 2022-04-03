@@ -1,0 +1,11 @@
+
+title: Notes Formations
+description: >-
+  Notes Formations
+baseurl: ""
+url: "https://chris-scientist4learning.github.io/notes"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
