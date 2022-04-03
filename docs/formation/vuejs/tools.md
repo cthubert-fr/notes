@@ -12,7 +12,7 @@ L'ensemble des outils cités ici aident aux développements VueJS.
 
 Note : *cette liste est loin d'être exhaustive, je la mettrais d'ailleurs bientôt à jour*.
 
-### Outils principaux
+<h3 id="main-tools-title" class="mt-4" >Outils principaux</h3>
 
 <div class="accordion" id="main-tools">
   <div class="accordion-item">
@@ -53,7 +53,7 @@ Note : *cette liste est loin d'être exhaustive, je la mettrais d'ailleurs bient
   </div>
 </div>
 
-### Extensions pour VS Code
+<h3 id="vsc-addons-title" class="mt-4" >Extensions pour VS Code</h3>
 
 <div class="accordion" id="vsc-addons">
   <div class="accordion-item">
@@ -82,7 +82,7 @@ Note : *cette liste est loin d'être exhaustive, je la mettrais d'ailleurs bient
   </div>
 </div>
 
-### Extensions pour Google Chrome
+<h3 id="gc-addons-title" class="mt-4" >Extensions pour Google Chrome</h3>
 
 <div class="accordion" id="gc-addons">
   <div class="accordion-item">
